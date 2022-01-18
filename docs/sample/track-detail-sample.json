@@ -1,0 +1,172 @@
+{
+  "count": 1,
+  "tracks": [
+      {
+          "tags": [
+              {
+                  "tag_id": 100,
+                  "tag_name": "Party"
+              }
+          ],
+          "atw": "https://a10.gaanacdn.com/gn_img/albums/a7LWBzWzXA/LWBkoGPNbz/size_m.jpg",
+          "ppd": 0,
+          "track_id": "40268674",
+          "seokey": "dont-wake-me-up-314",
+          "albumseokey": "dont-wake-me-up-english-2022-1",
+          "track_title": "Don’t Wake Me Up",
+          "album_id": "5108109",
+          "album_title": "Don’t Wake Me Up",
+          "language": "English",
+          "artwork": "https://a10.gaanacdn.com/gn_img/albums/a7LWBzWzXA/LWBkoGPNbz/size_s.jpg",
+          "artwork_web": "https://a10.gaanacdn.com/gn_img/albums/a7LWBzWzXA/LWBkoGPNbz/size_m.jpg",
+          "artwork_large": "https://a10.gaanacdn.com/gn_img/albums/a7LWBzWzXA/LWBkoGPNbz/size_l.jpg",
+          "artist": [
+              {
+                  "isWebp": 0,
+                  "popularity": 0,
+                  "artist_id": "845061",
+                  "seokey": "jonas-blue",
+                  "name": "Jonas Blue",
+                  "cached": 1
+              },
+              {
+                  "isWebp": 0,
+                  "popularity": 0,
+                  "artist_id": "1356340",
+                  "seokey": "why-dont-we",
+                  "name": "Why Don't We",
+                  "cached": 1
+              }
+          ],
+          "gener": [
+              {
+                  "genre_id": "67",
+                  "name": "Dance"
+              }
+          ],
+          "lyrics_url": "",
+          "youtube_id": "",
+          "popularity": "118428~118428",
+          "rating": "0",
+          "total_favourite_count": 652,
+          "content_source": "1",
+          "stream_type": "rtmp",
+          "duration": "188",
+          "isrc": "GBUM72107793",
+          "is_most_popular": 1,
+          "track_format": {
+              "mp3": {
+                  "normal": "0",
+                  "medium": "0",
+                  "high": "0",
+                  "extreme": "0",
+                  "auto": "0"
+              },
+              "mp4_aac": {
+                  "normal": "0",
+                  "medium": "1",
+                  "high": "1",
+                  "extreme": "1",
+                  "auto": "1"
+              }
+          },
+          "rtmp": "0",
+          "http": "0",
+          "https": "0",
+          "rtsp": "0",
+          "display_global": "1",
+          "mobile": 1,
+          "country": 1,
+          "vendor": "71576",
+          "is_local": 0,
+          "urls": {
+              "medium": {
+                  "message": "/PXDlMo67L4ssymkjHOGPNgaoh8Ou9LKJSyF01YhszTzONvWsUlbZ4OzY+KjxMsDPW4iyB9ewBjRxVvu7o+D7q3zkOIrqAfu0afvLFUhppVCbJ2itPaVUAv70VvRBwSw5Wn89hBPue5kKUrbMhIJCkTDk/XEe56wxRUfKaPRuM8qxQ8ipusoExnSYc4FB0rKjTD895VzCnjZd74G+C8ZSkpRJHlO8EA0xpyLnPy+5xMp9AHOFE8WoP/BcU53H82O",
+                  "bitRate": "64",
+                  "expiryTime": 1642537280
+              },
+              "high": {
+                  "message": "/PXDlMo67L4ssymkjHOGPNgaoh8Ou9LKJSyF01YhszTzONvWsUlbZ4OzY+KjxMsDWNZgnM9E1GH1unkVwKbt6YF/8LMbYViozYpfrM1cLTS7iyqhjZ+YRMLOKp8pOBv2BN5+/dwbUI5GL4F23UMBoRkY6A6P5/AAXH5LiQjM1lep+G+uVTNGQIUuTkE+3EKOEQ2DfWnbgv/TaHsWocpDug4e3nTusIdTxWxtWZMO2Ru1h7qILXOTxwgINLVs6uKH",
+                  "bitRate": "96",
+                  "expiryTime": 1642537280
+              },
+              "auto": {
+                  "message": "/PXDlMo67L4ssymkjHOGPNgaoh8Ou9LKJSyF01YhszTzONvWsUlbZ4OzY+KjxMsDizU/ys3uMvdE4xSAQOxn9OPhlZfHbPBBNQImyuIyteDcQNFzQRR8f0G5UADVK4dUg+KYTn8DNQgqT2ld7f0IY9UYkZjUtmFJBKxF4Axi00BlmIH5AB7WhytGZ5WFYyuTXWgh/bbSON65MnZPtTbjHm/YBdx+jkC/OXsNnCgXW/EhjrIirqh5Itr223ESBQuw",
+                  "bitRate": "",
+                  "expiryTime": 1642537280
+              }
+          },
+          "premium_content": "0",
+          "sap_id": "",
+          "release_date": "2022-01-07",
+          "language_id": "12",
+          "meta_title": "",
+          "meta_description": "",
+          "meta_keywords": "",
+          "vendor_name": "Positiva",
+          "meta_h1_tag": "",
+          "parental_warning": 0,
+          "cached": 0,
+          "composer": null,
+          "rest_lev": "0",
+          "vgid": "DR0nK",
+          "lyrics_type": null,
+          "play_ct": "100K+",
+          "download_enabled": 0,
+          "description": "",
+          "vert_priority": 0,
+          "modified_on_solr": "1642460409000",
+          "secondary_language": "English",
+          "artist_detail": [
+              {
+                  "isWebp": 0,
+                  "popularity": 0,
+                  "artist_id": "845061",
+                  "seokey": "jonas-blue",
+                  "name": "Jonas Blue",
+                  "artwork": "http://a10.gaanacdn.com/images/artists/61/845061/crop_80x80_845061.jpg",
+                  "artwork_175x175": "http://a10.gaanacdn.com/images/artists/61/845061/crop_175x175_845061.jpg",
+                  "cached": 1,
+                  "atw": "https://a10.gaanacdn.com/gn_img/artists/d41WjznWPL/41Wj526o3P/size_m_1593090051.webp",
+                  "role": "Singer"
+              },
+              {
+                  "isWebp": 0,
+                  "popularity": 0,
+                  "artist_id": "1356340",
+                  "seokey": "why-dont-we",
+                  "name": "Why Don't We",
+                  "artwork": "http://a10.gaanacdn.com/images/artists/40/1356340/crop_80x80_1356340.jpg",
+                  "artwork_175x175": "http://a10.gaanacdn.com/images/artists/40/1356340/crop_175x175_1356340.jpg",
+                  "cached": 1,
+                  "atw": "https://a10.gaanacdn.com/gn_img/artists/qaLKY23pO4/aLKYD2E2bp/size_m_1601484925.webp",
+                  "role": "Singer"
+              }
+          ],
+          "total_downloads": 0,
+          "amp": 1,
+          "operator": [
+              {
+                  "name": "JIO",
+                  "st": 1590019200000,
+                  "et": 1747785600000,
+                  "message": "Don’t Wake Me",
+                  "short_code": "56789"
+              }
+          ],
+          "operators": [
+              {
+                  "name": "JIO",
+                  "st": 1590019200000,
+                  "et": 1747785600000,
+                  "message": "Don’t Wake Me",
+                  "short_code": "56789"
+              }
+          ],
+          "is_premium": 0
+      }
+  ],
+  "user-token-status": 0,
+  "user_token_status": 0,
+  "status": 1
+}

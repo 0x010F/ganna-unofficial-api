@@ -1,0 +1,23 @@
+{
+  "name": "Gaana",
+  "version": "1.0.0",
+  "description": "Reverse Engineer Gaana API",
+  "type": "module",
+  "main": "src/main.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "chalk": "^5.0.0",
+    "ffmpeg": "0.0.4",
+    "form-data": "^4.0.0"
+  }
+}
