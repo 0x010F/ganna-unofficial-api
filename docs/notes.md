@@ -66,6 +66,8 @@ __Payload__ :
   request_type: string;
 ```
 
+__Response__:
+
 ```typescript
   stream_path: string;
   status: number;
