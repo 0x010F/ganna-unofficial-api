@@ -88,8 +88,6 @@ __Response__:
 
 __Method to construct stream payload__ :
 
-- Invoked when music is played
-
 ```javascript
   function(e, t) {
     try {
@@ -115,5 +113,5 @@ __Method to construct stream payload__ :
 ```
 
 - Params 
-  - __deviceId__ : Found in response of __*verifyToken*__ API response 
-  - __trackId__ : Upon page load
+  - __deviceId__ : Found in response of __*verifyToken*__ API 
+  - __trackId__ : present in response of __*TrackDetails*__ API
